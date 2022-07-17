@@ -1,8 +1,9 @@
 # Titanic-Dataset-EDA
 Exploratory analysis of Titanic data
 
-In This Analysis we will be preprocessing the Titanic dataset and get insights in how different factors affected the survival of the passengers on board.
+In This Analysis we will be preprocessing the Titanic dataset and get insights on how different factors affected the survival of the passengers on board.
 
+## Results from the analysis
 From the above Analysis we can conclude the following:
 
 There is high correlation between Gender and Survival, with women havent most survival rate
